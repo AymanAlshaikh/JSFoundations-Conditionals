@@ -1,7 +1,9 @@
 // Define the numbers and the operation here
 const numOne = 10;
 const numTwo = 7;
-let operator = "*";
+const user = prompt("Please enter name")
+
+console.log(user)
 // Write if-statements here
 if (operator === "+"){
     console.log("addition")
